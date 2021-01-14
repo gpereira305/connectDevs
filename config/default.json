@@ -1,3 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://giovane305:thebigboss305@connectdevs.jlbmq.mongodb.net/giovane305?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://giovane305:thebigboss305@connectdevs.jlbmq.mongodb.net/giovane305?retryWrites=true&w=majority",
+    "jwtSecret": "supersecrettoken",
+    "githubClientId": "00b67eb41af974e5e490",
+    "githubSecret": "d669c6bbba4e1c60c026069be49e8a3fb473c7d2"
 }
